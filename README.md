@@ -1,6 +1,8 @@
 # golang-serverless-aws-lambda-rest-api-read-optimized
 Rest apis in GoLang - MongoDB Dynamic Data READ Optimized - AWS Lambda Serverless
 
+![golang-rest-apis-read-optimized](https://user-images.githubusercontent.com/102517671/206923009-18d5619c-3f34-44c6-a82d-f346e1e4efd1.png)
+
 RESTful apis for optimizing read operations - Go Lang + MongoDB Integration via native driver + AWS Lambda - No Framework or Third party library used
 
 
