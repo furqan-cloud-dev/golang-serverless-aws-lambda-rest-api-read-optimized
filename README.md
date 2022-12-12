@@ -5,11 +5,11 @@ Rest apis in GoLang - MongoDB Dynamic Data READ Optimized - AWS Lambda Serverles
 
 RESTful apis for optimizing read operations - Go Lang + MongoDB Integration via native driver + AWS Lambda - No Framework or Third party library used
 
-
-AWS Lambda function :   main.zip </BR>
-Just upload "main.zip" to AWS Lambda directly via Lambda Code mangement console</BR>
-Configure lambda handler as:    main. </BR>
-Configure environment variable for MongoDB: </BR>
+- Create A Lambda function with Go Runtime :  Go 1.x
+- AWS Lambda function :   main.zip </BR>
+- Just upload "main.zip" to AWS Lambda directly via Lambda Code mangement console</BR>
+- Configure lambda handler as:    main. </BR>
+- Configure environment variable for MongoDB: </BR>
 
 Environment Variable in AWS Lambda for MONGO_DB_URI = "{connection string}" </BR>
 MongoDB Atlas is a great option for managed cloud mongodb cluster to start with - Free Tier is available </BR></BR>
